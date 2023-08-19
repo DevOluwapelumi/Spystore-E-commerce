@@ -5,7 +5,7 @@ An E-commerce Website created with HTML, CSS, and JAVASCRIPT for various product
  Creating such a website involves combining these technologies to provide an interactive and user-friendly platform for customers to browse, select, and purchase products. Here's an overview of how you might structure and implement this kind of website:
 
 Project Structure:
-Organize your project into folders for HTML, CSS, JavaScript, and possibly other assets like images or fonts.
+You can organize your project into folders for HTML, CSS, JavaScript, and maybe other assets like images or fonts.
 
 HTML (Structure and Content):
 Create HTML pages for different sections of your website:
