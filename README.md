@@ -48,7 +48,7 @@ Provide clear navigation and user-friendly interfaces.
 Use images and descriptions to help users understand products.
 Minimize steps in the checkout process for better conversion rates.
 Testing and Debugging:
-Regularly test your website on different devices and browsers to ensure compatibility and identify any issues.
+Regularly test your website on different devices and browsers to ensure Compatibility. and identify any issues.
 
 Deployment:
 Once your website is ready, deploy it to a web hosting service or server so that users can access it online.
