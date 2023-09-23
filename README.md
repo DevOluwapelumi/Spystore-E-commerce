@@ -47,7 +47,8 @@ Prioritize a smooth and intuitive user experience:
 Provide clear navigation and user-friendly interfaces.
 Use images and descriptions to help users understand products.
 Minimize steps in the checkout process for better conversion rates.
-Testing and Debugging:
+
+Testing and Debugging: 
 Regularly test your website on different devices and browsers to ensure Compatibility. and identify any issues.
 
 Deployment:
