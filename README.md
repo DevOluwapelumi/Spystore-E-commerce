@@ -16,13 +16,18 @@ You can organize your project into folders for HTML, CSS, JavaScript, and maybe 
 ### HTML (Structure and Content):
 Create HTML pages for different sections of your website:
 
-Home page: Showcase featured products, promotions, and announcements.
-Product pages: Create individual pages for each product with details, images, and pricing.
-Cart page: Display selected items, quantities, and a total.
-Checkout page: Gather shipping and payment information.
-Confirmation page: After successful payment, show an order confirmation.
-CSS (Styling):
-Style your website to make it visually appealing and user-friendly:
+### Home page: 
+ Showcase featured products, promotions, and announcements.
+### Product pages: 
+ Create individual pages for each product with details, images, and pricing.
+### Cart page: 
+ Display selected items, quantities, and a total.
+### Checkout page: 
+ Gather shipping and payment information.
+### Confirmation page: 
+ After successful payment, show an order confirmation.
+### CSS (Styling):
+ Style your website to make it visually appealing and user-friendly:
 
 Use CSS to define colors, fonts, layout, and responsiveness.
 Apply styles to create consistent design elements across pages.
